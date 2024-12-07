@@ -24,26 +24,11 @@
 | --- | --- |
   
   <p align="left">
-  <a href="https://www.linkedin.com/in/manuflorenca/](https://www.linkedin.com/in/manuelaflorenca/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/manuflorenca/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/manuflorenca/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
-
-
-  ### ⚙️ GitHub Analytics 
-
-  <table align="center">
-    <tr>
-      <td>
-        <img
-          align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=manuflorenca&theme=dark&hide_border=false"
-          alt="Github Stats"
-        />
-      </td>
-    </tr>
-  </table>
 
   ### 🏆 GitHub Profile Trophy
 
