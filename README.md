@@ -20,11 +20,9 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
   
 
-  | ![Florenca's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuflorenca&show_icons=true&theme=dracula) | ![Florenca's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuflorenca&layout=compact&theme=dracula&hide_border=true) |
+  | ![Florenca's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuflorenca&show_icons=true&theme=dark) | ![Florenca's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuflorenca&layout=compact&theme=dark&hide_border=true) |
 | --- | --- |
-  
 
-  ### ⭐ GitHub Profile Trophy
 
   <p align="center">
     <a
