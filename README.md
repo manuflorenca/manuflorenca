@@ -28,7 +28,9 @@
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub, VSCode" title="GitHub - Controle de versão, VSCode - Editor de código"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Figma, Photoshop" title="Figma - Design colaborativo, Photoshop - Edição de imagens"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python - Linguagem de programação poderosa e versátil"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js - Plataforma JavaScript para servidores"/></a>
 </div>
+
 
 ### Estatísticas GitHub:
 <p>Confira como estou me saindo em termos de contribuições e linguagens mais utilizadas!</p>
