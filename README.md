@@ -41,9 +41,13 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
-    Fico muito feliz que você tenha passado por aqui! 💜
+    Fico super feliz que você tenha vindo até aqui! 💜
   </p>
   <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
-    Vamos nos conectar, trocar ideias e crescer juntos nesse mundo incrível da tecnologia!
+    Vamos compartilhar experiências e crescer juntos no mundo incrível da tecnologia! 🌱
+  </p>
+  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
+    Estou animada para trocarmos ideias e evoluirmos nessa jornada digital cheia de oportunidades! 💫
   </p>
 </div>
+
