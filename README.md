@@ -37,5 +37,13 @@
   <a href="https://www.notion.so/15b58f574ef78078ba32ce561fa99f02" style="color: #FF00F6; text-decoration: none; font-weight: bold;">Acesse meu Notion</a><br>
 </details>
 
-<p style="text-align: center;">Obrigada por visitar meu perfil! Vamos conectar, trocar ideias e evoluir juntos no universo da tecnologia. 💜</p>
+  <img align="right" src="https://i.pinimg.com/originals/3f/06/c2/3f06c234d78c5cd7e879506847822149.gif" alt="coelhinho" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
+    Fico muito feliz que você tenha passado por aqui! 💜
+  </p>
+  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
+    Vamos nos conectar, trocar ideias e crescer juntos nesse mundo incrível da tecnologia!
+  </p>
+</div>
