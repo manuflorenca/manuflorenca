@@ -10,7 +10,7 @@
 
 <p align="justify">
   Sempre buscando aprimorar meus conhecimentos como Front-End.<br>
-  Atualmente cursando Técnico em Informática no Senac Santana.<br>
+  Atualmente cursando Análise e Desenvolvimento de Sistemas na IMPACTA.<br>
   Apaixonada por criar interfaces acessíveis, funcionais e criativas para a web.<br></p>
 </p>
 
