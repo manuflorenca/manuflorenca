@@ -21,14 +21,14 @@
 <p>Tenho experiência nas seguintes tecnologias:</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React - Biblioteca JavaScript para interfaces"/></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" title="JavaScript - Linguagem de programação dinâmica"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript&theme=dark" alt="JavaScript, TypeScript" title="JavaScript - Linguagem de programação dinâmica | TypeScript - Superset tipado de JavaScript"/></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js - Plataforma JavaScript para servidores"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML, CSS" title="HTML, CSS - Tecnologias essenciais para desenvolvimento web"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap - Framework CSS para design responsivo"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL - Sistema de gerenciamento de banco de dados"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub, VSCode" title="GitHub - Controle de versão, VSCode - Editor de código"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Figma, Photoshop" title="Figma - Design colaborativo, Photoshop - Edição de imagens"/></a>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python - Linguagem de programação poderosa e versátil"/></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js - Plataforma JavaScript para servidores"/></a>
 </div>
 
 
