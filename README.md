@@ -35,8 +35,11 @@
 ### Estatísticas GitHub:
 <p>Confira como estou me saindo em termos de contribuições e linguagens mais utilizadas!</p>
 
-| ![Florenca's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manuflorenca&show_icons=true&theme=jolly&hide_border=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6) | ![Florenca's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manuflorenca&layout=compact&theme=jolly&hide_border=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6) |
-| --- | --- |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuflorenca&show_icons=true&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuflorenca&layout=compact&theme=jolly" />
+</div>
+
 
 <details align="left">
   <summary style="cursor: pointer; font-weight: bold;">Veja o meu Notion de Front-End</summary>
