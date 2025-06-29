@@ -46,19 +46,9 @@
   
   <p style="max-width: 600px;">No meu Notion, compartilho recursos e dicas valiosas de Front-End que me ajudaram muito a evoluir. Fique à vontade para conferir!</p>
   <a href="https://www.notion.so/15b58f574ef78078ba32ce561fa99f02" style="color: #FF00F6; text-decoration: none; font-weight: bold;">Acesse meu Notion</a><br>
+  <img align="right" src="https://i.pinimg.com/originals/3f/06/c2/3f06c234d78c5cd7e879506847822149.gif" alt="coelhinho" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 </details>
 
-  <img align="right" src="https://i.pinimg.com/originals/3f/06/c2/3f06c234d78c5cd7e879506847822149.gif" alt="coelhinho" align="right" style="min-width: 100px; max-width: 100px; width: 100px;">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
-    Fico super feliz que você tenha vindo até aqui! 💜
-  </p>
-  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
-    Vamos compartilhar experiências e crescer juntos no mundo incrível da tecnologia! 🌱
-  </p>
-  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
-    Estou animada para trocarmos ideias e evoluirmos nessa jornada digital cheia de oportunidades! 💫
-  </p>
-</div>
+
 
